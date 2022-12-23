@@ -1,0 +1,10 @@
+canvas{
+    animation-name:Example;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+    border:20px;
+    border-color: black;
+}
+.heading{
+    font-size:28px;
+    }
